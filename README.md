@@ -1,5 +1,12 @@
 # Getting Started with Create React App
 
+This is a Blogging Application where anyone can write and post their Blog.
+ A user can easily login through Google-Authentication.
+ The application is highly reliable because of Google-Authentication feature.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
